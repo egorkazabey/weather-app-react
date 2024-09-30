@@ -1,0 +1,11 @@
+.info {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: blue;
+	height: 300px;
+}
+
+h1 {
+	font-size: 5em;
+}

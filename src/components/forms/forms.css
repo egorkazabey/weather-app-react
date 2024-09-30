@@ -1,0 +1,12 @@
+.forms {
+	display: flex;
+	justify-content: center;
+}
+
+input, button {
+	font-size: 30px;
+	padding: 10px;
+	outline: none;
+	height: 50px;
+	width: 300px;
+}
